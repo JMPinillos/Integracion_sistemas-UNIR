@@ -46,15 +46,13 @@ Una empresa está analizando tres mejoras posibles. La primera es ampliar en nú
 
    
 
-   <img src="images/Arbol_decision_paso_1_2.png" alt="Arbol_decision_paso_1_2" style="zoom: 25%;" />
-
-   
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_1_2.png?raw=true" alt="Arbol_decision_paso_1_2.png" style="zoom:25%;" />
 
 3. **Se expande el diagrama hasta llegar a los puntos finales**.
 
    
 
-   <img src="images/Arbol_decision_paso_3.png" alt="Arbol_decision_paso_3" style="zoom: 25%;" />
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_3.png?raw=true" alt="Arbol_decision_paso_3.png" style="zoom:25%;" />
 
    
 
@@ -74,7 +72,7 @@ Una empresa está analizando tres mejoras posibles. La primera es ampliar en nú
 
    
 
-   <img src="images/Arbol_decision_paso_4.png" alt="Arbol_decision_paso_4" style="zoom: 25%;" />
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_4.png?raw=true" alt="Arbol_decision_paso_4.png" style="zoom:25%;" />
 
    
 
@@ -82,10 +80,10 @@ Una empresa está analizando tres mejoras posibles. La primera es ampliar en nú
 
    
 
-   <img src="images/Arbol_decision_paso_5.png" alt="Arbol_decision_paso_5" style="zoom: 25%;" />
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_5.png?raw=true" alt="Arbol_decision_paso_5.png" style="zoom:25%;" />
+
    
-   
-   
+
    Por lo tanto, **se decide aplicar la mejora 2**.
 
 
@@ -116,7 +114,7 @@ En el caso de que decidiésemos cerrar la sucursal, se estima una probabilidad d
 
    
 
-   <img src="images/Arbol_decision_paso_1_2_ejercicio_2.png" alt="Arbol_decision_paso_1_2_ejercicio_2" style="zoom:25%;" />
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_1_2_ejercicio_2.png?raw=true" alt="Arbol_decision_paso_1_2_ejercicio_2.png" style="zoom: 25%;" />
 
    
 
@@ -124,7 +122,7 @@ En el caso de que decidiésemos cerrar la sucursal, se estima una probabilidad d
 
    
 
-   <img src="images/Arbol_decision_paso_3_ejercicio_2.png" alt="Arbol_decision_paso_3_ejercicio_2" style="zoom:25%;" />
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_3_ejercicio_2.png?raw=true" alt="Arbol_decision_paso_3_ejercicio_2.png" style="zoom:25%;" />
 
    
 
@@ -158,7 +156,7 @@ En el caso de que decidiésemos cerrar la sucursal, se estima una probabilidad d
 
    
 
-   <img src="images/Arbol_decision_paso_5_ejercicio_2.png" alt="Arbol_decision_paso_5_ejercicio_2" style="zoom: 25%;" />
+   <img src="https://github.com/JMPinillos/Integracion_sistemas-UNIR/blob/main/EJERCICIOS/TEMA%207/images/Arbol_decision_paso_5_ejercicio_2.png?raw=true" alt="Arbol_decision_paso_5_ejercicio_2.png" style="zoom:25%;" />
 
    
 
